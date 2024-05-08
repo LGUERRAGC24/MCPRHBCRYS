@@ -1,0 +1,4 @@
+C:\ejemplo dev\MCPRHBCRYS\obj\Release\MCPRHBCRYS.csproj.AssemblyReference.cache
+C:\ejemplo dev\MCPRHBCRYS\obj\Release\MCPRHBCRYS.csproj.CoreCompileInputs.cache
+C:\GIRRHH\MCPRHBCRYS\obj\Release\MCPRHBCRYS.csproj.AssemblyReference.cache
+C:\GIRRHH\MCPRHBCRYS\obj\Release\MCPRHBCRYS.csproj.CoreCompileInputs.cache

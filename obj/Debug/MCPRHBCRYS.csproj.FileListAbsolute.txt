@@ -1,0 +1,2 @@
+C:\ejemplo dev\MCPRHBCRYS\obj\Debug\MCPRHBCRYS.csproj.AssemblyReference.cache
+C:\ejemplo dev\MCPRHBCRYS\obj\Debug\MCPRHBCRYS.csproj.CoreCompileInputs.cache
